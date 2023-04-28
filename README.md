@@ -1,4 +1,6 @@
 ##GoCV 补丁: 实现 SFace 接口调用
+##GoCV Patch: Implementing SFace Interface
+
 这是一个 GoCV 的补丁，用于实现 [SFace](https://github.com/opencv/opencv/blob/4.x/modules/objdetect/src/face_detect.cpp) 接口的调用。SFace 是一个人脸识别算法库，可以用于识别和验证人脸。
 
 该补丁包含了 SFace 接口的实现，你可以使用它来集成 SFace 到你的 GoCV 应用中。使用该补丁，你可以轻松地进行人脸检测、人脸识别和人脸验证。
